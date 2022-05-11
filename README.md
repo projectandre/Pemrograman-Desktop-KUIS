@@ -1,6 +1,6 @@
 # Pemrograman-Desktop-KUIS-Revisi
 
-Nama : Andre Agung
-Npm : 2007051035
-Mata Kuliah : Pemrograman Desktop
+Nama : Andre Agung \n
+Npm : 2007051035 \n
+Mata Kuliah : Pemrograman Desktop \n
 KUIS-REVISI
